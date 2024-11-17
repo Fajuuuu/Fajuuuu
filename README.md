@@ -42,4 +42,11 @@
 
 - [**Kubernetes Monitoring Stack**](https://github.com/yourusername/k8s-monitoring)  
   _Set up a monitoring stack using Prometheus, Grafana, and Alertmanager._  
-  **Tech:** Kubernetes, Prometheus, Grafana  
+  **Tech:** Kubernetes, Prometheus, Grafana
+
+  ## 🏆 Certifications
+
+- **AWS Certified Solutions Architect – Associate**
+- **Certified Kubernetes Administrator (CKA)**
+- **HashiCorp Certified: Terraform Associate**
+
