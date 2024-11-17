@@ -32,15 +32,15 @@
 
 ## 🌟 Featured Projects
 
-- [**IaC with Terraform**](https://github.com/yourusername/terraform-infrastructure)  
+- [**IaC with Terraform**](https://github.com/Fajuuuu/terraform-infrastructure)  
   _Automated cloud infrastructure deployment using Terraform for AWS._  
   **Tech:** Terraform, AWS, Jenkins  
 
-- [**CI/CD Pipeline with GitHub Actions**](https://github.com/yourusername/github-actions-pipeline)  
+- [**CI/CD Pipeline with GitHub Actions**](https://github.com/Fajuuuu/github-actions-pipeline)  
   _Created a robust CI/CD pipeline to automate build, test, and deployment processes._  
   **Tech:** GitHub Actions, Docker, Kubernetes  
 
-- [**Kubernetes Monitoring Stack**](https://github.com/yourusername/k8s-monitoring)  
+- [**Kubernetes Monitoring Stack**](https://github.com/Fajuuuu/k8s-monitoring)  
   _Set up a monitoring stack using Prometheus, Grafana, and Alertmanager._  
   **Tech:** Kubernetes, Prometheus, Grafana
 
@@ -49,4 +49,9 @@
 - **AWS Certified Solutions Architect – Associate**
 - **Certified Kubernetes Administrator (CKA)**
 - **HashiCorp Certified: Terraform Associate**
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Fajuuuu)
+
 
