@@ -30,3 +30,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fajuuuu&layout=compact&theme=radical)
 
+## 🌟 Featured Projects
+
+- [**IaC with Terraform**](https://github.com/yourusername/terraform-infrastructure)  
+  _Automated cloud infrastructure deployment using Terraform for AWS._  
+  **Tech:** Terraform, AWS, Jenkins  
+
+- [**CI/CD Pipeline with GitHub Actions**](https://github.com/yourusername/github-actions-pipeline)  
+  _Created a robust CI/CD pipeline to automate build, test, and deployment processes._  
+  **Tech:** GitHub Actions, Docker, Kubernetes  
+
+- [**Kubernetes Monitoring Stack**](https://github.com/yourusername/k8s-monitoring)  
+  _Set up a monitoring stack using Prometheus, Grafana, and Alertmanager._  
+  **Tech:** Kubernetes, Prometheus, Grafana  
