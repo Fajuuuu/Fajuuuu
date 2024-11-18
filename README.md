@@ -22,7 +22,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![CloudFormation Actions](https://img.shields.io/badge/CloudFormation-D24939?style=for-the-badge&logo=CloudFormation&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-D24939?style=for-the-badge&logo=CloudFormation&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## 📊 GitHub Stats
 
